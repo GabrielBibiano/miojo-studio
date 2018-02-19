@@ -1,2 +1,2 @@
-# miojo-studio
-A simple DAW to musicians without money like me :rocket: :clock10: :boom: :spaghetti:
+# Miojo Studio :spaghetti: :notes: :sunglasses:
+A simple DAW to musicians without money like me
